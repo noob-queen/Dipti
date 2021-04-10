@@ -2,4 +2,4 @@
 
 This is my first ever repository made.
 
-I love to :dance:, :eat: and :work:
+I love to :dancer:, :eat: and :work:
