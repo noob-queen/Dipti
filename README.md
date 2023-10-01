@@ -1,5 +1,5 @@
-# Noob-Queen here
+# Dipti here
 
-This is my first ever repository made.
+This is my first-ever repository made.
 
-I love to :dancer: and work.
+I love to dance: and work.
